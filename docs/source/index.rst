@@ -10,6 +10,10 @@ Welcome to NLP Resources for Dutch's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   tools
+   datasets
+   models
+   corpora
 
 
 Indices and tables
