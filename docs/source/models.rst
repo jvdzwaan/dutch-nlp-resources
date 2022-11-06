@@ -20,6 +20,6 @@ BERT
 ----
 
 * `BERTje <https://github.com/wietsedv/bertje>`_: Dutch pre-trained BERT model developed at the University of Groningen.
-* `RobBERT <https://people.cs.kuleuven.be/~pieter.delobelle/robbert/>`_: Dutch RoBERTa-based Language Model.
+* `RobBERT <https://pieter.ai/robbert/>`_: Dutch BERT model using RoBERTa's pre-training, developed by KU Leuven. Trained on scraped data from the Dutch section of the OSCAR corpus. `4 smaller, distilled models <https://huggingface.co/DTAI-KULeuven/robbertje-1-gb-non-shuffled>`_ are also available.
 * `BERT-NL <http://textdata.nl>`_: cased and uncased BERT model trained on the SoNaR corpus by the Text Mining and Retrieval research group at Leiden University.
 * `mBERT <https://github.com/google-research/bert/blob/master/multilingual.md>`_: Multilingual BERT model.
